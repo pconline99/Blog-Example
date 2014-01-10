@@ -67,7 +67,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'usergittest',
 		'password' => 'passwordgittest',
-		'database' => 'database_name',
+		'database' => 'database_name_git',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
